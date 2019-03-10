@@ -1,6 +1,6 @@
 <template>
     <div>
-        测试删除功能
+        测试删除
     </div>
 </template>
 <script>
